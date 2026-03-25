@@ -1,1 +1,0 @@
-# Praktikum-GTI-A1

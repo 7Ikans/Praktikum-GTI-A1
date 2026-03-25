@@ -1,6 +1,6 @@
 [Project]
-FileName=Testis.dev
-Name=Testis
+FileName=Project1.dev
+Name=Project1
 Type=0
 Ver=2
 ObjFiles=
@@ -53,7 +53,7 @@ SyncProduct=1
 [Unit1]
 FileName=main.cpp
 CompileCpp=1
-Folder=Testis
+Folder=Project1
 Compile=1
 Link=1
 Priority=1000
